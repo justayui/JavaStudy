@@ -1,1 +1,1 @@
-課題提出用
+I will submit the assignment.
