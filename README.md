@@ -1,2 +1,1 @@
-second test
-README
+課題提出用
